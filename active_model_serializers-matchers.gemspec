@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.version       = ActiveModel::Serializers::Matchers::VERSION
 
   gem.add_dependency "active_model_serializers", "~> 0.7.0"
-  gem.add_dependency "rspec", "~> 2.0"
+  gem.add_dependency "rspec", "~> 2.13"
 
   gem.add_development_dependency "simplecov"
 end
